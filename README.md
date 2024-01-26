@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://ansh24k.io)
 <h1 align="center">Hi 👋, I'm Ansh Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding" width="400" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshpatel24k&label=Profile%20views&color=0e75b6&style=flat" alt="anshpatel24k" /> </p>
 
