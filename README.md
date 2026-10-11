@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<img src="assets/hero.gif" alt="Batman seated on a gothic throne, fog drifting through a cathedral window" width="100%" />
-<img src="assets/title.svg" alt="Ansh Patel, frontend developer from India" width="100%" />
+<img src="hero.gif" alt="Batman seated on a gothic throne, fog drifting through a cathedral window" width="100%" />
+<img src="title.svg" alt="Ansh Patel, frontend developer from India" width="100%" />
 
 <!--
   FULL VIDEO (optional): open this README in the GitHub web editor and drag
@@ -28,9 +28,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=anshpatel24k&label=Visitors&color=12303A&labelColor=05080B&style=flat" alt="Profile views" />
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
-<img src="assets/h-about.svg" alt="The man behind the mask" width="100%" />
+<img src="h-about.svg" alt="The man behind the mask" width="100%" />
 
 </div>
 
@@ -43,9 +43,9 @@ I'm Ansh, a frontend developer from India. I build responsive, fast interfaces w
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
-<img src="assets/h-work.svg" alt="Case files" width="100%" />
+<img src="h-work.svg" alt="Case files" width="100%" />
 
 <table>
 <tr>
@@ -58,9 +58,9 @@ I'm Ansh, a frontend developer from India. I build responsive, fast interfaces w
 </tr>
 </table>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
-<img src="assets/h-stack.svg" alt="Utility belt" width="100%" />
+<img src="h-stack.svg" alt="Utility belt" width="100%" />
 
 <p><strong>Interface</strong><br/>
 <img src="https://img.shields.io/badge/HTML5-0B1A21?style=for-the-badge&logo=html5&logoColor=3FD0E0&labelColor=05080B&color=12303A" alt="HTML5" />
@@ -84,9 +84,9 @@ I'm Ansh, a frontend developer from India. I build responsive, fast interfaces w
 <img src="https://img.shields.io/badge/GitHub-0B1A21?style=for-the-badge&logo=github&logoColor=3FD0E0&labelColor=05080B&color=12303A" alt="GitHub" />
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
-<img src="assets/h-stats.svg" alt="Night patrol log" width="100%" />
+<img src="h-stats.svg" alt="Night patrol log" width="100%" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=AnshPatel24k&hide_border=false&background=05080B&border=12303A&ring=3FD0E0&fire=F2B705&currStreakNum=D7E3E8&currStreakLabel=3FD0E0&sideNums=D7E3E8&sideLabels=8FA6AF&dates=8FA6AF" alt="GitHub streak" />
 &nbsp;
@@ -105,9 +105,9 @@ I'm Ansh, a frontend developer from India. I build responsive, fast interfaces w
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/AnshPatel24k/AnshPatel24k/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="divider.svg" alt="" width="100%" />
 
-<img src="assets/h-signal.svg" alt="Light the signal" width="100%" />
+<img src="h-signal.svg" alt="Light the signal" width="100%" />
 
 Got a project, a bug, or a late-night idea? Send word.
 
@@ -117,6 +117,6 @@ Got a project, a bug, or a late-night idea? Send word.
 
 <br /><br />
 
-<img src="assets/skyline.svg" alt="Gotham skyline at night with a signal beam" width="100%" />
+<img src="skyline.svg" alt="Gotham skyline at night with a signal beam" width="100%" />
 
 </div>
